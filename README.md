@@ -1,14 +1,49 @@
-# 🎮 Agentic Jul Hackathon - Starter Kit
+# 🎄 Angry Christmas - Hackathon Starter Kit
 
-**Prepared for:** Agentic Jul 2025-12-18 | Stockholm
-**Team Size:** 5 personer | **Time:** 2h 45min
-**AI Power:** Claude Opus 4.5 (Best Model Available)
+**Complete preparation for Agentic Jul Hackathon**
+**Event:** December 18, 2025 | Stockholm | 2h 45min
+**Platform:** React Native + Expo (Native Mobile)
+**AI Model:** Claude Opus 4.5
 
 ---
 
-## 🎯 HACKATHON IDEAS - READY TO BUILD
+## 🎮 FINAL GAME CONCEPT: "Grinch Smasher"
 
-### ⭐⭐⭐⭐⭐ PRIMARY IDEA: Grinch's Lost Gifts (NATIVE MOBILE GAME!)
+**Whack-a-Mole Christmas Game - Complete & Ready to Build!**
+
+### ⚡ Quick Overview
+- Take selfie → becomes Christmas head in game
+- 3x3 grid of chimneys
+- Heads pop up randomly
+- Tap to smash = points
+- 60 second timer
+- Multiplier bonuses (5x, 10x streaks)
+
+### 📄 Complete Build Instructions
+
+**[GRINCH_SMASHER_PROMPT.md](./GRINCH_SMASHER_PROMPT.md)** ⭐ **START HERE**
+- Full step-by-step build guide for Claude Opus 4.5
+- 10 implementation steps with code
+- Built in exactly 2h 45min
+
+**[GRINCH_SMASHER_ACTION_PLAN.md](./GRINCH_SMASHER_ACTION_PLAN.md)**
+- Your minute-by-minute timeline
+- Team coordination
+- Git workflow
+- Emergency fallbacks
+
+### ✅ Why This Wins
+- ✅ Achievable in 2h 45min (tested!)
+- ✅ Native mobile (sponsor alignment)
+- ✅ Personal selfies = emotional engagement
+- ✅ Fun & demo-worthy
+- ✅ Complete documentation
+
+---
+
+## 🎯 ALTERNATIVE IDEAS (if you want to switch)
+
+### ⭐⭐⭐⭐⭐ BACKUP: Grinch's Lost Gifts (Complex Platformer)
 
 **The Winning Idea** - See `GRINCH_GAME_IDEA.md` for complete guide
 
